@@ -12,7 +12,7 @@ A robust and scalable RESTful API developed in **Java 17** with **Spring Boot 3.
 - Dockerized application and PostgreSQL
 - Environment-based configuration with Spring Profiles: `dev`, `test`, `prod`, `docker`
 - Kafka and Spring AI dependencies pre-configured for future integration
-- OpenAPI (Swagger) support for API documentation (coming soon)
+- OpenAPI (Swagger) support for API documentation 
 
 ---
 
