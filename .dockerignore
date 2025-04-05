@@ -1,0 +1,22 @@
+# Maven
+target/
+!target/*.jar
+
+# IDEs
+.idea/
+*.iml
+*.iws
+.vscode/
+
+# Sistema Operacional
+.DS_Store
+Thumbs.db
+
+# Git
+.git
+.gitignore
+
+# Outros
+*.log
+*.tmp
+*.bak
